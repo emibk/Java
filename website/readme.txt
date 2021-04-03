@@ -1,0 +1,1 @@
+Having a file containing an URL, write its content in a file with ".html" extension.
